@@ -18,7 +18,7 @@ import org.jmrtd.lds.PACEInfo;
 import org.jmrtd.lds.SecurityInfo;
 import org.jmrtd.lds.icao.*;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
         // MRZ mẫu từ CCCD
         String rawMRZ =
